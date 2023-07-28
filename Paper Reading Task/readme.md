@@ -1,7 +1,6 @@
 # A Survey of Computational Framing Analysis Approaches
 
-    The paper provides an in-depth survey of various computational methods used in framing analysis.Framing analysis is a vital tool for understanding how media, politicians, and other stakeholders shape public opinion by selectively presenting information. 
-
+This paper provides an in-depth survey of various computational methods used in framing analysis.Framing analysis is a vital tool for understanding how media, politicians, and other stakeholders shape public opinion by selectively presenting information. 
 
 
   ## Summary
