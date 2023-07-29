@@ -9,16 +9,11 @@ The dataset is from the url: https://lokdhaba.ashoka.edu.in/browse-data?et=GE&st
 
 ├── README.md
 ├── Paper Reading Task
+     ├── readme.md 
 ├── All_States_GE.csv           # CSV file - dataset
 ├── Elections_Analysis.ipynb
 ├── Elections_Binary_Classification.ipynb              
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md           
-  
+|── Elections_Multiclass_Classification.ipynb                       
 ```
 
 
